@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6C5B00CC372FBC33857C62731B6EEDA1449DECAD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "65edefa7-6c8d-c245-98b4-648558b37c98++4336" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "ios\/chenxiaojie\/branches"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6C5B00CC372FBC33857C62731B6EEDA1449DECAD" : 9223372036854775807,
+    "65edefa7-6c8d-c245-98b4-648558b37c98++4336" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3B748A4-42E5-47C9-ABA7-D0E39C5C6B6E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6C5B00CC372FBC33857C62731B6EEDA1449DECAD" : "CJAttributedTextLabel\/",
+    "65edefa7-6c8d-c245-98b4-648558b37c98++4336" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CJAttributedTextLabel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CJAttributedTextLabel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.ants-city.com\/svn\/APP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65edefa7-6c8d-c245-98b4-648558b37c98++4336"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CJbenben\/CJAttributedTextLabel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C5B00CC372FBC33857C62731B6EEDA1449DECAD"
+    }
+  ]
+}
