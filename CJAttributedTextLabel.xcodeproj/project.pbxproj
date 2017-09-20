@@ -57,13 +57,13 @@
 		04F506E61F724000009132E0 /* CJAttributedTextLabel */ = {
 			isa = PBXGroup;
 			children = (
-				04F506E71F724000009132E0 /* 111.png */,
 				04F506E81F724000009132E0 /* AppDelegate.swift */,
-				04F506E91F724000009132E0 /* Assets.xcassets */,
+				04F506EF1F724000009132E0 /* ViewController.swift */,
 				04F506EA1F724000009132E0 /* LaunchScreen.storyboard */,
 				04F506EC1F724000009132E0 /* Main.storyboard */,
+				04F506E91F724000009132E0 /* Assets.xcassets */,
 				04F506EE1F724000009132E0 /* Info.plist */,
-				04F506EF1F724000009132E0 /* ViewController.swift */,
+				04F506E71F724000009132E0 /* 111.png */,
 			);
 			path = CJAttributedTextLabel;
 			sourceTree = "<group>";
